@@ -1,11 +1,11 @@
 flows:
   d6796ed2-bffa-4119-97ce-06c775e138fb:
-    ver: 6
+    ver: 7
     file: generate_flowfile.snapshot
     comments: |
-      added new content to the generate flow file
+      added new field age into the content of the generate flowfile
     author: anonymous
-    created: 1748341887311
+    created: 1748342067304
     flowName: generate flowfile
     flowDesc: ''
 layoutVer: 1
