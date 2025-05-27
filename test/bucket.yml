@@ -8,5 +8,14 @@ flows:
     created: 1748342067304
     flowName: generate flowfile
     flowDesc: ''
+  2d4a6f81-23fd-42ef-84d3-df3b8b2491e9:
+    ver: 1
+    file: Read_and_Split.snapshot
+    comments: ''
+    author: anonymous
+    created: 1748342755399
+    flowName: Read and Split
+    flowDesc: |
+      in this flow we are firstly Spliting the data based in data present.
 layoutVer: 1
 bucketId: 994ba1b0-9a89-4e0f-bae1-091d0309fd94
