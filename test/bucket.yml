@@ -1,6 +1,12 @@
 flows:
-  d6796ed2-bffa-4119-97ce-06c775e138fb: {ver: 5, file: generate_flowfile.snapshot,
-    comments: change in generate flow file content, author: anonymous, created: 1748341553443,
-    flowName: generate flowfile, flowDesc: ''}
+  d6796ed2-bffa-4119-97ce-06c775e138fb:
+    ver: 6
+    file: generate_flowfile.snapshot
+    comments: |
+      added new content to the generate flow file
+    author: anonymous
+    created: 1748341887311
+    flowName: generate flowfile
+    flowDesc: ''
 layoutVer: 1
 bucketId: 994ba1b0-9a89-4e0f-bae1-091d0309fd94
