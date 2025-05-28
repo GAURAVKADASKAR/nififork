@@ -1,15 +1,9 @@
 flows:
   55afb3b7-1ae4-4612-a312-6503b6ac3363: {ver: 1, file: test_flow.snapshot, comments: '',
     author: anonymous, created: 1748343235917, flowName: test flow, flowDesc: ''}
-  d6796ed2-bffa-4119-97ce-06c775e138fb:
-    ver: 7
-    file: generate_flowfile.snapshot
-    comments: |
-      added new field age into the content of the generate flowfile
-    author: anonymous
-    created: 1748342067304
-    flowName: generate flowfile
-    flowDesc: ''
+  d6796ed2-bffa-4119-97ce-06c775e138fb: {ver: 8, file: generate_flowfile.snapshot,
+    comments: test, author: anonymous, created: 1748412667831, flowName: generate
+      flowfile, flowDesc: ''}
   2d4a6f81-23fd-42ef-84d3-df3b8b2491e9:
     ver: 1
     file: Read_and_Split.snapshot

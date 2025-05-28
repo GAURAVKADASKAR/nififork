@@ -100,7 +100,6 @@
             "generate-ff-custom-text" : "{\n\"username\":\"gaurav\",\n\"firstname\":\"gaurav\",\n\"age\":21,\n\"lastname\":\"kadaskar\"\n}",
             "Batch Size" : "1",
             "Unique FlowFiles" : "false",
-            "name" : "#{name}",
             "Data Format" : "Text"
           },
           "propertyDescriptors" : {
@@ -138,12 +137,6 @@
               "displayName" : "Unique FlowFiles",
               "identifiesControllerService" : false,
               "name" : "Unique FlowFiles",
-              "sensitive" : false
-            },
-            "name" : {
-              "displayName" : "name",
-              "identifiesControllerService" : false,
-              "name" : "name",
               "sensitive" : false
             },
             "Data Format" : {
