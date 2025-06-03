@@ -1,4 +1,13 @@
 flows:
+  82cbcb7d-daea-4358-b23c-b9bd8c77e269:
+    ver: 1
+    file: demo_flow_for_nifi-1.28.1.snapshot
+    comments: |
+      nil
+    author: anonymous
+    created: 1748942062422
+    flowName: demo flow for nifi-1.28.1
+    flowDesc: nil
   55afb3b7-1ae4-4612-a312-6503b6ac3363: {ver: 1, file: test_flow.snapshot, comments: '',
     author: anonymous, created: 1748343235917, flowName: test flow, flowDesc: ''}
   d6796ed2-bffa-4119-97ce-06c775e138fb:
