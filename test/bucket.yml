@@ -10,8 +10,8 @@ flows:
     flowDesc: nil
   55afb3b7-1ae4-4612-a312-6503b6ac3363: {ver: 1, file: test_flow.snapshot, comments: '',
     author: anonymous, created: 1748343235917, flowName: test flow, flowDesc: ''}
-  d6796ed2-bffa-4119-97ce-06c775e138fb: {ver: 12, file: generate_flowfile.snapshot,
-    comments: local changes in flow, author: anonymous, created: 1756820014582, flowName: generate
+  d6796ed2-bffa-4119-97ce-06c775e138fb: {ver: 13, file: generate_flowfile.snapshot,
+    comments: eqwewe, author: anonymous, created: 1756820249164, flowName: generate
       flowfile, flowDesc: ''}
   2d4a6f81-23fd-42ef-84d3-df3b8b2491e9:
     ver: 1
