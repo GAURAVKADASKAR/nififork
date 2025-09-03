@@ -163,6 +163,15 @@
             "x" : 584.0,
             "y" : 488.0
           }
+        }, {
+          "componentType" : "FUNNEL",
+          "groupIdentifier" : "f15f4fca-5591-3a86-aea9-7f2acc0c60b0",
+          "identifier" : "e0c997e7-6b08-3314-a411-9fc1f2730e15",
+          "instanceIdentifier" : "0e322ccd-0199-1000-2f69-21c33cf4fc6c",
+          "position" : {
+            "x" : 914.0,
+            "y" : 370.0028580322266
+          }
         } ],
         "identifier" : "f15f4fca-5591-3a86-aea9-7f2acc0c60b0",
         "inputPorts" : [ ],
