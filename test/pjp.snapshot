@@ -157,15 +157,6 @@
         "funnels" : [ {
           "componentType" : "FUNNEL",
           "groupIdentifier" : "f15f4fca-5591-3a86-aea9-7f2acc0c60b0",
-          "identifier" : "226acd85-610c-38e8-a19e-94ac68badd16",
-          "instanceIdentifier" : "0df967eb-0199-1000-83e8-54266a574bc2",
-          "position" : {
-            "x" : 946.0,
-            "y" : 356.00282751464846
-          }
-        }, {
-          "componentType" : "FUNNEL",
-          "groupIdentifier" : "f15f4fca-5591-3a86-aea9-7f2acc0c60b0",
           "identifier" : "68fc6fb0-2d5e-3d81-a303-5667f7bf00c3",
           "instanceIdentifier" : "5f4100b0-0197-1000-3c09-ab79905d40e3",
           "position" : {
